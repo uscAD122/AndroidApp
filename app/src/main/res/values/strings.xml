@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Check-in Logger</string>
+    <string name="title_activity_item_map_location">Location Map</string>
+</resources>
